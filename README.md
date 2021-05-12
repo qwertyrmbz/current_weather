@@ -1,1 +1,1 @@
-# current_weather
+# Application to find out the current weather
